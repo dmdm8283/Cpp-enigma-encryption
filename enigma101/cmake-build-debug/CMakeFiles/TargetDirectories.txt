@@ -1,0 +1,3 @@
+/home/dmdm/CLionProjects/enigma101/cmake-build-debug/CMakeFiles/enigma101.dir
+/home/dmdm/CLionProjects/enigma101/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dmdm/CLionProjects/enigma101/cmake-build-debug/CMakeFiles/rebuild_cache.dir
